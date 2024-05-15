@@ -494,6 +494,7 @@ h1, h2, h3{
     height: 300px;
     width: 100%;
     padding: 1rem;
+    resize: none;
 }
 
 .form-btn{
